@@ -12,3 +12,9 @@ class Post(models.Model):
 
     def summary(self):
         return self.body[:50]
+
+    def __repr__(self):
+
+        return "{}: {}, {}".format(self.pk, self.title, self.body)
+
+    __str__ = __repr__
