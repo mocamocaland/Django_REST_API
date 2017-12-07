@@ -4,6 +4,7 @@ Django:1.11
 
 ブログサンプルを作成
 Rest APIの作成が目的
+JSON
 
 参照先
 
