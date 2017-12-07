@@ -1,5 +1,6 @@
 Django REST API 
 
+<<<<<<< HEAD
 Django==1.11
 django-filter==1.1.0
 djangorestframework==3.7.3
@@ -11,6 +12,11 @@ Pillow==4.3.0
 pycodestyle==2.3.1
 pyflakes==1.6.0
 pytz==2017.3
+=======
+ブログサンプルを作成
+Rest APIの作成が目的
+JSON
+>>>>>>> feature
 
 ブログサンプルからRest APIの作成が目的
 
